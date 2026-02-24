@@ -8,13 +8,8 @@ No cloud. No API keys. Everything runs locally on your machine.
 
 ## 📸 Screenshots
 
-> *Add your terminal screenshots here*
 
-<!-- Example:
-![Q&A Demo](screenshots/demo.png)
-![Skills Query](screenshots/skills.png)
--->
-
+![Terminal Demo](Terminal.png)
 ---
 
 ## 📌 What Does It Do?
